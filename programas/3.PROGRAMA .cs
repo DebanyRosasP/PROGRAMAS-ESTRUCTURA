@@ -1,4 +1,4 @@
-﻿
+//calcular la suma de todos los numeros﻿
 using System;
 
 class Suma
