@@ -1,4 +1,4 @@
-﻿ covertir un numero decimal a binario
+﻿//covertir un numero decimal a binario
 
 using System;
 using System.ComponentModel.Design;
