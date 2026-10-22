@@ -1,4 +1,5 @@
-﻿using System;
+//invertir el orden de los digitos de un numero
+using System;
 
 class program
 {
