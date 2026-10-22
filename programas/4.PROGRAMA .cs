@@ -1,4 +1,4 @@
-﻿
+//calcular potencia utilizando recursividad﻿
 using System;
 class Program
 {
