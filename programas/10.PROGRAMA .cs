@@ -1,5 +1,4 @@
-﻿//programa 10.- covertir un numero decimal a binar
-//objetivo convertir 
+﻿ covertir un numero decimal a binario
 
 using System;
 using System.ComponentModel.Design;
