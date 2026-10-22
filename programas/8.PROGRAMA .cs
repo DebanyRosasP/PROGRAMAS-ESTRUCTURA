@@ -1,4 +1,5 @@
-﻿using System;
+//cuenta regresiva alternando dos metodos
+using System;
 
 class Program
 {
